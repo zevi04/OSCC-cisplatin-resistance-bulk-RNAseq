@@ -169,3 +169,6 @@ secrets*
 # metadata, scripts and documentation are intentionally NOT
 
 # ignored.
+
+# Local bioinformatics tools
+tools/
