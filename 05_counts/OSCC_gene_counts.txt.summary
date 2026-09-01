@@ -1,0 +1,15 @@
+Status	04_alignment/bam/ERR4703472.sorted.bam	04_alignment/bam/ERR4703473.sorted.bam	04_alignment/bam/ERR4703474.sorted.bam	04_alignment/bam/ERR4703475.sorted.bam	04_alignment/bam/ERR4703476.sorted.bam	04_alignment/bam/ERR4703477.sorted.bam	04_alignment/bam/ERR4703478.sorted.bam	04_alignment/bam/ERR4703479.sorted.bam
+Assigned	11993646	15809130	12536529	12210624	12511692	11434170	9109105	13448403
+Unassigned_Unmapped	29457	44628	78095	77472	154305	150673	2167120	281698
+Unassigned_Read_Type	0	0	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	3143559	3350892	2076690	1813030	1558987	1425716	2560363	2755315
+Unassigned_Secondary	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	579198	798488	553740	573516	800392	652083	1997170	893469
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	588148	752902	622214	623970	539372	521074	345431	623656

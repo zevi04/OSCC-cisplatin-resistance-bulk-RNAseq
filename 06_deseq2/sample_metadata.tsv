@@ -1,0 +1,9 @@
+sample_id	run_accession	sample_accession	time_months	phenotype	rnai	replicate
+H357_CisS_0M_Rep1	ERR4703472	SAMEA7472023	0	sensitive	scrambled_none	1
+H357_CisS_0M_Rep2	ERR4703473	SAMEA7472024	0	sensitive	scrambled_none	2
+H357_CisR_4M_Rep1	ERR4703474	SAMEA7472025	4	resistant	scrambled_siRNA	1
+H357_CisR_4M_Rep2	ERR4703475	SAMEA7472026	4	resistant	scrambled_siRNA	2
+H357_CisR_8M_Rep1	ERR4703476	SAMEA7472027	8	resistant	scrambled_siRNA	1
+H357_CisR_8M_Rep2	ERR4703477	SAMEA7472028	8	resistant	scrambled_siRNA	2
+H357_CisR_8M_RRBP1KD_Rep1	ERR4703478	SAMEA7472029	8	resistant	RRBP1_siRNA	1
+H357_CisR_8M_RRBP1KD_Rep2	ERR4703479	SAMEA7472030	8	resistant	RRBP1_siRNA	2

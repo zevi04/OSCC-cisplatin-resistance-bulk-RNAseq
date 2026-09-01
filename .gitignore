@@ -172,3 +172,35 @@ secrets*
 
 # Local bioinformatics tools
 tools/
+
+# ------------------------------------------------------------
+# OSCC project-specific large data directories
+# ------------------------------------------------------------
+
+01_raw_fastq/
+03_trimmed/fastq/
+04_alignment/bam/
+04_alignment/reference/
+
+# Keep alignment QC and logs
+!04_alignment/qc/
+!04_alignment/qc/*.txt
+!04_alignment/logs/
+!04_alignment/logs/*.log
+EOFcat >> .gitignore <<'EOF'
+
+# ------------------------------------------------------------
+# OSCC project-specific large data directories
+# ------------------------------------------------------------
+
+01_raw_fastq/
+03_trimmed/fastq/
+04_alignment/bam/
+04_alignment/reference/
+
+# Keep alignment QC and logs
+!04_alignment/qc/
+!04_alignment/qc/*.txt
+!04_alignment/logs/
+!04_alignment/logs/*.log
+05_counts/OSCC_gene_counts.txt
